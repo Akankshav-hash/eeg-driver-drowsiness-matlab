@@ -32,7 +32,7 @@ This project presents an EEG-based driver drowsiness detection system that combi
 ## How to Run
 
 1. Open the MATLAB project.
-2. Load the EEG dataset.
+2. Load the EEG dataset using the buildDataset.m
 3. Execute preprocessing and feature extraction scripts.
 4. Train or load the SVM model.
 5. Launch the GUI and test classification.
