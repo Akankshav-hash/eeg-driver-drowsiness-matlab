@@ -19,7 +19,6 @@ This project presents an EEG-based driver drowsiness detection system that combi
 ## Project Structure
 
 * `code/` – MATLAB scripts
-* `dataset/` – EEG data files
 * `docs/` – Flowcharts, GUI images, confusion matrix
 * `report/` – Project report
 
